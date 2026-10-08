@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "7bdc2fa37d16d9dfa352112e",
+  "owner": "fpxmgqfqx",
+  "repo": "page-8a2e09dc353c12eaa665c906",
+  "title": "机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8a2e09dc353c12eaa665c906",
+      "a": "机场推荐",
+      "b": "",
+      "entity": "机场推荐",
+      "brand": "机场推荐",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7bb77f0dd2605d67d2912e20c888228c99b79eef8f496de74fb1f40d92c7db4a",
+      "content": {
+        "keyword1": "机场推荐",
+        "keyword2": "",
+        "primary_entity": "机场推荐",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场推荐提供专业VPN加速服务，涵盖基础版、旗舰版、团队版多种套餐，支持高速流量和多设备在线。立即下载客户端，畅享网络加速与流媒体解锁。",
+          "AI_DESCRIPTION": "机场推荐提供专业VPN加速服务，涵盖基础版、旗舰版、团队版多种套餐，支持高速流量和多设备在线。立即下载客户端，畅享网络加速与流媒体解锁。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            line-height: 1.6;\n            margin: 0;\n            padding: 0;\n            background-color: #f5f5dc;\n            color: #333333;\n        }\n        main {\n            max-width: 820px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            color: #228b22;\n            text-align: center;\n            font-size: 2.8em;\n            margin-bottom: 10px;\n        }\n        h2 {\n            color: #228b22;\n            border-bottom: 3px solid #228b22;\n            padding-bottom: 10px;\n            font-size: 1.8em;\n            margin: 30px 0 15px;\n        }\n        h3 {\n            color: #228b22;\n            font-size: 1.5em;\n            margin: 25px 0 10px;\n        }\n        .intro {\n            background-color: #ffffff;\n            padding: 25px;\n            border-radius: 12px;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.08);\n            margin-bottom: 30px;\n        }\n        .intro p {\n            margin: 0;\n            font-size: 1.1em;\n        }\n        .card {\n            background-color: #ffffff;\n            border: 2px solid #228b22;\n            border-radius: 12px;\n            padding: 25px;\n            margin-bottom: 25px;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.08);\n        }\n        .card.featured {\n            border-color: #228b22;\n            position: relative;\n        }\n        .card.featured::after {\n            content: \"★ 推荐\";\n            position: absolute;\n            top: -12px;\n            right: 25px;\n            background: #228b22;\n            color: #fff;\n            font-size: 0.9em;\n            padding: 6px 18px;\n            border-radius: 30px;\n            box-shadow: 0 2px 6px rgba(0,0,0,0.1);\n        }\n        .price {\n            font-size: 1.3em;\n            font-weight: bold;\n            color: #228b22;\n            margin: 15px 0 10px;\n        }\n        .annual {\n            color: #666;\n            font-size: 0.95em;\n            margin-bottom: 15px;\n        }\n        ul {\n            padding-left: 25px;\n            margin: 15px 0;\n        }\n        li {\n            margin: 8px 0;\n            font-size: 1.05em;\n        }\n        .download-section {\n            background-color: #ffffff;\n            padding: 25px;\n            border-radius: 12px;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.08);\n            margin: 30px 0;\n        }\n        .download-section h2 {\n            margin-top: 0;\n        }\n        .faq-section {\n            background-color: #ffffff;\n            padding: 25px;\n            border-radius: 12px;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.08);\n        }\n        details {\n            margin-bottom: 18px;\n            border: 1px solid #ddd;\n            border-radius: 8px;\n            padding: 15px;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            color: #228b22;\n            font-size: 1.1em;\n            list-style: none;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        @media (max-width: 640px) {\n            h1 {\n                font-size: 2.2em;\n            }\n            .card {\n                padding: 20px;\n            }\n            .intro p {\n                font-size: 1em;\n            }\n        }\n    </style>\n\n\n    <main>\n        <h1>机场推荐</h1>\n        \n        <div class=\"intro\">\n            <p>机场推荐是专业的VPN加速服务品牌，提供优质的机场订阅和客户端下载解决方案。无论您是个人用户还是企业团队，都能通过我们的基础版、旗舰版或团队版套餐，获得稳定高速的网络加速体验。支持多平台客户端，解锁流媒体与游戏加速，让您的网络畅通无阻。</p>\n        </div>\n\n        <h2>使用场景</h2>\n        <p>机场推荐广泛应用于以下场景：</p>\n        <ul>\n            <li>流媒体平台解锁：支持Netflix、YouTube、Bilibili等全球热门服务</li>\n            <li>在线游戏加速：优化网络延迟，提升竞技游戏体验</li>\n            <li>家庭多设备共享：支持多台手机、电脑、平板同时在线</li>\n            <li>企业网络定制：团队版提供专属高带宽节点与路由优化</li>\n            <li>日常办公与远程办公：稳定线路保障远程访问安全</li>\n        </ul>\n\n        <h2>套餐选择</h2>\n        \n        \n        <div class=\"card\">\n            <h3>基础版</h3>\n            <div class=\"price\">¥15/月</div>\n            <div class=\"annual\">按年付仅需 ¥150/年</div>\n            <ul>\n                <li>每月 100GB 极速流量</li>\n                <li>支持 3 台设备同时在线</li>\n                <li>解锁基础流媒体</li>\n                <li>普通线路节点池</li>\n            </ul>\n        </div>\n\n        \n        <div class=\"card featured\">\n            <h3>旗舰版</h3>\n            <div class=\"price\">¥35/月</div>\n            <div class=\"annual\">按年付仅需 ¥350/年</div>\n            <ul>\n                <li>每月 300GB 极速流量</li>\n                <li>支持 5 台设备同时在线</li>\n                <li>全节点原生流媒体解锁</li>\n                <li>IPLC 专线游戏加速优化</li>\n                <li>7x24 优先工单支持</li>\n            </ul>\n        </div>\n\n        \n        <div class=\"card\">\n            <h3>团队版</h3>\n            <div class=\"price\">¥85/月</div>\n            <div class=\"annual\">按年付仅需 ¥850/年</div>\n            <ul>\n                <li>每月 1000GB 极速流量</li>\n                <li>支持 20 台设备同时在线</li>\n                <li>VIP 专属高带宽节点</li>\n                <li>支持企业定制路由</li>\n                <li>专属客户经理服务</li>\n            </ul>\n        </div>\n\n        <h2>客户端下载</h2>\n        <div class=\"download-section\">\n            <p>机场推荐官方提供多平台客户端下载，助您轻松实现网络加速：</p>\n            <ul>\n                <li>Windows 客户端</li>\n                <li>macOS 客户端</li>\n                <li>iOS 客户端</li>\n                <li>Android 客户端</li>\n            </ul>\n            <p>立即访问官网下载中心，获取最新版本客户端。</p>\n        </div>\n\n        <h2>操作说明</h2>\n        <ol>\n            <li>访问官网下载中心，免费下载适合您平台的客户端</li>\n            <li>选择适合的套餐并完成在线支付</li>\n            <li>安装完成后登录账号，连接推荐节点</li>\n            <li>享受每月流量包内的高速加速服务</li>\n        </ol>\n\n        <h2 class=\"faq-section\">常见问题</h2>\n        <details>\n            <summary>什么是机场推荐？</summary>\n            <p>机场推荐是专注于VPN加速服务的专业品牌，提供优质的机场订阅与客户端下载解决方案，帮助用户实现高速稳定的网络体验。</p>\n        </details>\n        <details>\n            <summary>如何订阅和支付？</summary>\n            <p>选择适合的套餐后，在线支付完成订阅，支付成功立即激活账号，开启加速服务。</p>\n        </details>\n        <details>\n            <summary>支持哪些设备和平台？</summary>\n            <p>支持Windows、macOS、iOS、Android等多平台客户端，设备数量根据套餐而定（基础版支持3台，旗舰版支持5台，团队版支持20台）。</p>\n        </details>\n        <details>\n            <summary>流量如何使用？</summary>\n            <p>每月流量限额内可无限使用，超出限额后可能限速。所有套餐均提供实时流量监控。</p>\n        </details>\n        <details>\n            <summary>客服支持如何？</summary>\n            <p>提供7x24在线工单支持，团队版额外配备专属客户经理，快速响应您的需求。</p>\n        </details>\n        <details>\n            <summary>如何连接节点？</summary>\n            <p>下载客户端后登录账号，选择节点一键连接，优化线路后即可享受加速服务。</p>\n        </details>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "d515129f0eed73b2e39265d989ee8a5b61b7766de7c8a69f2090b4afdc1e3296",
+          "seo": {
+            "title": "机场推荐 - 机场订阅 VPN加速器 客户端下载",
+            "keywords": "机场推荐, VPN加速器, 机场订阅, 客户端下载, VPN, 网络加速",
+            "description": "机场推荐提供专业VPN加速服务，涵盖基础版、旗舰版、团队版多种套餐，支持高速流量和多设备在线。立即下载客户端，畅享网络加速与流媒体解锁。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fjxax.cn",
+    "host": "p-0860b80f59.fjxax.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "bacb58f674ea26e91f5ed296c7022bddf3eb34a18c2c6d150804a9c2c9ce0c8c",
+    "sitemap.xml": "d010e928945e31ae9dab1fa52b1a917d67d77a2e5d5ba493b8c685bc958ce30b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4f207f391752daae4cb30f237937fe75697c28c305bb9932be8c626b218d5fc9",
+    "robots.txt": "f7a5960212f5258e6449d9400133458d5d210a38559310f76b6020ec72a6cd65",
+    "4c5926c852f8aee509fef29ab130b772.txt": "9f8d1d15a2d2dc097c9278cbf88220f36fcf54fbfe5a29adc3589e30cd123dd4"
+  },
+  "revision": "32ad4c3fc60e7bbb143620817ada80e6deb8ab5d12c9e61b1ac383554a56a861"
+}
